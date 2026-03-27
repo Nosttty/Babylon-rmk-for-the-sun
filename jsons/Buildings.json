@@ -3,7 +3,7 @@
     "name": "Walls of Babylon",
 	"unique": "Babylon",
     "replaces": "Walls",
-    "cost": 50,
+    "cost": 45,
     "maintenance": 0,
     "cityStrength": 10,
 	"cityHealth": 125,
