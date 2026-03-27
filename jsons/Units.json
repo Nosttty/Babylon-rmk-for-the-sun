@@ -10,5 +10,14 @@
     "cost": 25,
     "requiredTech": "Archery",
     "uniques": ["[+1] Sight","Rough terrain penalty","Can move after attacking"],
+    },
+    {
+    "name": "Enlightened Guard",
+    "uniqueTo": "Babylon",
+    "unitType": "Sword",
+    "replaces": "Swordsman",
+    "strength": 22,
+    "uniques": ["Can build [Road] improvements","Can build [Fort] improvements",
+                "Earn [Science] from [Combat] [100]% of the [Defeated Unit's Strength]"],
     }
 ]
