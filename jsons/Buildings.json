@@ -5,8 +5,8 @@
     "replaces": "Walls",
     "cost": 50,
     "maintenance": 0,
-    "defense": 6,
-    "health": 50,
+    "cityStrength": 10,
+	"cityHealth": 125,
     "uniques": ["[+2] Science","[+1] Culture" ],
     "requiredTech": "Masonry"
 	}
