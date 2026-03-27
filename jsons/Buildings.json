@@ -7,7 +7,7 @@
     "maintenance": 0,
     "cityStrength": 10,
 	"cityHealth": 125,
-    "uniques": ["+2 Science","+1 Culture"],
+    "uniques": ["+2 Science","+1 Culture","Destroyed when the city is captured"],
     "requiredTech": "Masonry"
 	}
 ]
