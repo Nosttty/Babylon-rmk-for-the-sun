@@ -9,7 +9,8 @@
     "rangedStrength": 14,
     "cost": 25,
     "requiredTech": "Archery",
-    "uniques": ["[+1] Sight","Rough terrain penalty","Can move after attacking"],
+    "uniques": ["[+1] Sight","Rough terrain penalty","Can move after attacking",
+                "Withdraws before melee combat <with [100]% chance>"],
     },
     {
     "name": "Legion",
@@ -21,6 +22,7 @@
     "cost": 50,
     "requiredTech": "Iron Working",
     "uniques": ["Can build [Road] improvements on tiles","Can build [Fort] improvements on tiles",
-                "Earn [100]% of killed [Military] unit's [Strength] as [Science]"],
+                "Earn [100]% of killed [Military] unit's [Strength] as [Science]",
+                "Withdraws before melee combat <with [100]% chance>"],
     }
 ]
