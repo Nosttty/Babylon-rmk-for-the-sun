@@ -2,7 +2,7 @@
     {
     "name": "Bowman",
     "uniqueTo": "Babylon",
-    "unitType": "Ranged",
+    "unitType": "Archery",
     "replaces": "Archer",
     "movement": 3,
     "strength": 15,
