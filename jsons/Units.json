@@ -10,7 +10,7 @@
     "cost": 25,
     "requiredTech": "Archery",
     "uniques": ["[+1] Sight","Rough terrain penalty","Can move after attacking",
-                "instantly constructCan a [Academy] improvement"],
+                "Can build [Academy] improvement on tiles"],
     },
     {
     "name": "Legion",
