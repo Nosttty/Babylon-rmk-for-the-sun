@@ -19,7 +19,7 @@
     "movement": 3,
     "strength": 22,
     "cost": 50,
-    "requiredTech": "Working",
+    "requiredTech": "Iron Working",
     "uniques": ["Can build [Road] improvements on tiles","Can build [Fort] improvements on tiles",
                 "Earn [100]% of killed [Military] unit's [Strength] as [Science]"],
     },
