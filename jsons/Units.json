@@ -1,6 +1,7 @@
 [
     {
     "name": "Bowman",
+    "uniqueTo": "Babylon",
     "unitType": "Ranged",
     "replaces": "Archer",
     "movement": 3,
