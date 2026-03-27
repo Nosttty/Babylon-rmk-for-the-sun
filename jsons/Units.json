@@ -12,7 +12,7 @@
     "uniques": ["[+1] Sight","Rough terrain penalty","Can move after attacking"],
     },
     {
-    "name": "Enlightened Guard",
+    "name": "Legión",
     "uniqueTo": "Babylon",
     "unitType": "Sword",
     "replaces": "Swordsman",
