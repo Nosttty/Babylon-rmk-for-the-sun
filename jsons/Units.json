@@ -9,7 +9,7 @@
     "rangedStrength": 14,
     "cost": 25,
     "requiredTech": "Archery",
-    "uniques": ["[+1] Sight","Rough terrain penalty","Can move after attacking"],
+    "uniques": ["[+1] Sight","Rough terrain penalty","Can move after attacking"," instantly constructCan a [Academy] improvement"],
     },
     {
     "name": "Legion",
@@ -22,16 +22,5 @@
     "requiredTech": "Iron Working",
     "uniques": ["Can build [Road] improvements on tiles","Can build [Fort] improvements on tiles",
                 "Earn [100]% of killed [Military] unit's [Strength] as [Science]"],
-    },
-    {
-    "name": "Great Scientist",
-    "uniqueTo": "Babylon",
-	"unitType": "Sword",
-    "movement": 3,
-    "cost": 5,
-	"requiredTech": "Agriculture",
-	"uniques": ["Can hurry technology research","Can instantly construct a [Academy] improvement <by consuming this unit>",
-                "Is part of Great Person group [Great Person]","[This Unit] gets a name from the [Scientist] group",
-                "Great Person - [Science]", "Unbuildable", "Uncapturable"],
     }
 ]
