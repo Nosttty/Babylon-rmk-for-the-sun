@@ -20,6 +20,7 @@
     "strength": 22,
     "cost": 50,
     "requiredTech": "Working",
-    "uniques": ["Can build [Road] improvements on tiles","Can build [Fort] improvements on tiles"],
+    "uniques": ["Can build [Road] improvements on tiles","Can build [Fort] improvements on tiles",
+                "Earn [100]% of killed [Military] unit's [Strength] as [Sciense]"],
     }
 ]
