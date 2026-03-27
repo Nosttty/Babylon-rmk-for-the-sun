@@ -9,7 +9,8 @@
     "rangedStrength": 14,
     "cost": 25,
     "requiredTech": "Archery",
-    "uniques": ["[+1] Sight","Rough terrain penalty","Can move after attacking"," instantly constructCan a [Academy] improvement"],
+    "uniques": ["[+1] Sight","Rough terrain penalty","Can move after attacking",
+                "instantly constructCan a [Academy] improvement"],
     },
     {
     "name": "Legion",
