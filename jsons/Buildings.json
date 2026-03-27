@@ -1,13 +1,13 @@
 [
 	{
     "name": "Walls of Babylon",
-	"unique": "Babylon",
+	"uniqueTo": "Babylon",
     "replaces": "Walls",
     "cost": 45,
     "maintenance": 0,
     "cityStrength": 10,
 	"cityHealth": 125,
-    "uniques": ["[+2] Science","[+1] Culture" ],
+    "uniques": ["[+2] [Science]","[+1] [Culture]"],
     "requiredTech": "Masonry"
 	}
 ]
