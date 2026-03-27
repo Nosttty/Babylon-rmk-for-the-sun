@@ -16,7 +16,9 @@
     "uniqueTo": "Babylon",
     "unitType": "Sword",
     "replaces": "Swordsman",
+    "movement": 3,
     "strength": 22,
+    "cost": "50",
     "uniques": ["Can build [Road] improvements","Can build [Fort] improvements",
                 "Earn [Science] from [Combat] [100]% of the [Defeated Unit's Strength]"],
     }
