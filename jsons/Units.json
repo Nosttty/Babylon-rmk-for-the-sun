@@ -1,12 +1,13 @@
-[{
+[
+    {
     "name": "Bowman",
     "unitType": "Ranged",
     "replaces": "Archer",
-    "movement": 2,
-    "strength": 7,
-    "rangedStrength": 11,
-    "cost": 40,
+    "movement": 3,
+    "strength": 15,
+    "rangedStrength": 14,
+    "cost": 25,
     "requiredTech": "Archery",
     "uniques": ["[+1] Sight","No sufre penalización de visibilidad por [Forest] o [Jungle]"],
-}
+    }
 ]
