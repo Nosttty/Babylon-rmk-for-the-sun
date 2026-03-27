@@ -25,7 +25,7 @@
 		"favoredReligion": "Islam",
 		"uniqueName": "Ingenuity",
 		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing] technology>","Free [Great Scientist] appears <upon discovering [Mathematics] technology>","Free [Great Scientist] appears <upon discovering [Education] technology>","[Great Scientist] is earned [100]% faster","[+2 Science] from [Desert] tiles [in this city]",
-        "[+1 Science] from [Mountain] tiles [in this city]"],
+        "[+1 Science] from [Desert] tiles [in this city]"],
 		"cities": ["Babylon","Akkad","Dur-Kurigalzu","Nippur","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
 			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
 			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
