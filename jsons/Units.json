@@ -12,7 +12,7 @@
     "uniques": ["[+1] Sight","Rough terrain penalty","Can move after attacking"],
     },
     {
-    "name": "Legión",
+    "name": "Legion",
     "uniqueTo": "Babylon",
     "unitType": "Sword",
     "replaces": "Swordsman",
