@@ -1,8 +1,9 @@
 [
 	{
     "name": "Walls of Babylon",
+	"unique": "Babylon",
     "replaces": "Walls",
-    "cost": 65,
+    "cost": 50,
     "maintenance": 0,
     "defense": 6,
     "health": 50,
