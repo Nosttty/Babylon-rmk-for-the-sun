@@ -19,7 +19,6 @@
     "movement": 3,
     "strength": 22,
     "cost": "50"
-    "uniques": ["Can build [Road] improvements on tiles","Can build [Fort] improvements on tiles",
-                "Earn [Science] from [Combat] [100]% of the [Defeated Unit's Strength]"],
+    "uniques": ["Can build [Road] improvements on tiles","Can build [Fort] improvements on tiles"],
     }
 ]
