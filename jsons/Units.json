@@ -18,7 +18,8 @@
     "replaces": "Swordsman",
     "movement": 3,
     "strength": 22,
-    "cost": "50"
+    "cost": 50,
+    "requiredTech": "Working",
     "uniques": ["Can build [Road] improvements on tiles","Can build [Fort] improvements on tiles"],
     }
 ]
