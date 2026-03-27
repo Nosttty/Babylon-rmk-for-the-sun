@@ -22,5 +22,16 @@
     "requiredTech": "Working",
     "uniques": ["Can build [Road] improvements on tiles","Can build [Fort] improvements on tiles",
                 "Earn [100]% of killed [Military] unit's [Strength] as [Sciense]"],
+    },
+    {
+    "name": "Great Scientist babylon",
+    "uniqueTo": "Babylon",
+	"unitType": "Civilian",
+    "replaces": "Great Scientist"
+    "movement": 3,
+    "cost": 5,
+	"uniques": ["Can hurry technology research","Can instantly construct a [Academy] improvement <by consuming this unit>",
+                "Is part of Great Person group [Great Person]","[This Unit] gets a name from the [Scientist] group",
+                "Great Person - [Science]", "Unbuildable", "Uncapturable"],
     }
 ]
